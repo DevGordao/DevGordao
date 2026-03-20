@@ -79,12 +79,6 @@
 
 ---
 
-## 🚀 Minha visão
-
-> _"Acredito que programação não é só escrever código,    
-> mas sim criar soluções úteis, bem estruturadas e que realmente façam diferença."_
-
----
 
 ⭐ Se curtir algum projeto, deixa uma estrela lá  
 🤝 Aberto a conexões, parcerias e projetos
