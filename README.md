@@ -73,12 +73,20 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevGordao&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGordao&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevGordao&show_icons=true&theme=dark&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGordao&layout=compact&theme=dark" />
 </p>
+
+
 
 ---
 
 
 ⭐ Se curtir algum projeto, deixa uma estrela lá  
 🤝 Aberto a conexões, parcerias e projetos
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevGordao/DevGordao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevGordao/DevGordao/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevGordao/DevGordao/output/github-contribution-grid-snake.svg">
+</picture>
