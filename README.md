@@ -1,6 +1,6 @@
 # Opa 👋, Eu sou Lucas Barbosa
 
-🚀 **Estudante de  Programação**  
+🚀 **Estudante de Programação**  
 🇧🇷 Brazil
 
 💻 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**.\
@@ -9,7 +9,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+### 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/DevGordao">
@@ -21,23 +21,20 @@
   <a href="https://www.linkedin.com/in/lucasbarbosadev/">
     <img src="https://img.shields.io/badge/LinkedIn-lucasbarbosadev -0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-
-  
 </p>
 
 ---
 
-## 🧠 O que eu faço
+### 🧠 O que eu faço
 
--   🏗️ Desenvolvimento de sistemas web
--   ⚡ Foco em performance e organização de código
--   🧩 Boas práticas e código limpo
--   🎓 Cada vez ganhando mais conhecimento sobre programação
+- 🏗️ Desenvolvimento de sistemas web
+- ⚡ Foco em performance e organização de código
+- 🧩 Boas práticas e código limpo
+- 🎓 Cada vez ganhando mais conhecimento sobre programação
 
 ---
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 ### Frontend
 
@@ -70,17 +67,14 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevGordao&show_icons=true&theme=dark&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGordao&layout=compact&theme=dark" />
 </p>
 
-
-
----
-
+#
 
 ⭐ Se curtir algum projeto, deixa uma estrela lá  
 🤝 Aberto a conexões, parcerias e projetos
